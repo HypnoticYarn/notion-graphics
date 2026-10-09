@@ -28,3 +28,7 @@ Neutral building blocks that can sit alongside any one style set.
 
 ## jess-mission-control
 Graphics for Jess's Mission Control in Notion (fuzzy monster style): scenes (24), illustrated-icons (24, png and svg), simple-icons (24, png and svg), source-sheets (2 overview sheets), holiday-banners (6 covers: Valentine's, Easter, Halloween, Thanksgiving, Christmas, New Year), holiday-icons (24, four per holiday, png and svg).
+
+## marketing
+Promo artwork for social posts and videos.
+- **yarnable-porch-delivery.png**: illustrated customer on her front porch holding the Hypnotic Yarn / Yarnable polymailer (used as the source image for the Yarnable delivery video).
