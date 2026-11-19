@@ -18,6 +18,7 @@ One folder per style set; use graphics from one set per project so everything lo
 - **hand-lettering** (2): black hand lettering phrases.
 - **bees-soft-kawaii** (5): flatter, soft kawaii bees.
 - **bees-cartoon-glossy** (11): glossy big-eyed cartoon bees.
+- **bees-crayon-hibiscus** (16): crayon-style bees with hibiscus and plumeria, banners, dividers and icons for the Marketing System Blueprint (Cheryl's files). See its README.txt.
 - **team-avatars** (9): illustrated cartoon portraits of the Hypnotic Yarn team.
 
 ## Design elements
