@@ -10,6 +10,7 @@ One folder per style set; use graphics from one set per project so everything lo
 
 - **frog-and-snail** (149): the watercolor frog and snail garden set, in covers, icons, ui-icons, page-dividers, illustrated-dividers, botanical-dividers and source-sheets.
 - **kawaii-brains** (20): flat pink kawaii brains with faces doing things.
+- **seven-days-of-merriment** (16): Christmas set for the Seven Days of Merriment promotion, in neutral espresso and chalk colors so other things on the page (like free gift photos) stand out: the Seven Days of Merriment wordmark, Free Gift with Order, Day One to Day Seven, holly sprig, ornaments pair, two gift stacks (a and b), pine sprig with pinecone, ornament garland divider and holly divider. Also in the Hypnotic Yarn Team shared drive › Promotion Workflows › Seven Days of Merriment › Graphics.
 - **kawaii-cute-friends** (9): soft kawaii characters and objects with blush faces.
 - **line-doodles** (20): black hand-drawn line art.
 - **signposts** (4): flat directional signposts.
