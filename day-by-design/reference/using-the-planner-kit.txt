@@ -1,0 +1,12 @@
+Day by Design
+Planner graphics and light-theme interface palette
+
+Start with Palette / App palette.png. It lays out the background, cards, text, controls, primary action, category fills and task states, with an example task list. Copy Day by Design.css or Color tokens.json to use the exact hex values. UI color pairings.txt lists tested combinations and contrast ratios.
+
+Icons
+60 distinct symbols, grouped into Tasks, Assistant, Work, Home and Routines. Each has a scalable SVG using a 24 × 24 grid and a 96 × 96 transparent PNG. Render at 24 px for compact rows. For inline SVG, set the color property on the SVG element to recolor its strokes. Use visible text labels or an accessible control name alongside actions.
+
+Artwork
+12 transparent square illustrations at 1280 × 1280. The four page headers reserve the middle for live titles. Quiet morning and Focus line are minimal; Workday desk and Home rhythm have more detailed ends. Four shallow footers and six dividers can be layered over the page background.
+The Brand folder contains the full wordmark and a compact planner mark in both transparent PNG and scalable SVG.
+See Icon guide.png and Illustration guide.png to browse all designs.
