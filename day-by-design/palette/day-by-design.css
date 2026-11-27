@@ -1,0 +1,22 @@
+:root {
+  --dbd-canvas: #F7F8F3; /* App background */
+  --dbd-surface: #FFFFFF; /* Cards, menus, and inputs */
+  --dbd-ink: #202F39; /* Headings and primary text */
+  --dbd-muted: #52616A; /* Supporting text and timestamps */
+  --dbd-line: #D3DCD7; /* Decorative separators */
+  --dbd-control: #60736F; /* Input and checkbox outlines */
+  --dbd-primary: #17665C; /* Main action, checked controls */
+  --dbd-pressed: #104F48; /* Pressed primary action */
+  --dbd-blue: #365B91; /* Work labels, links, focus ring */
+  --dbd-amber: #F3CF66; /* Today and focus highlights */
+  --dbd-apricot: #F2AC79; /* Illustration accent */
+  --dbd-lilac: #B4A5D2; /* Routine illustration accent */
+  --dbd-home-fill: #E2F1E8; /* Home and completed badges */
+  --dbd-work-fill: #E6EDF9; /* Work and selected navigation */
+  --dbd-routine-fill: #F0EBF7; /* Routine badges */
+  --dbd-routine-ink: #614E79; /* Routine label text */
+  --dbd-due-fill: #FFF2CF; /* Due-soon badges */
+  --dbd-due-ink: #73521A; /* Due-soon label text */
+  --dbd-late-fill: #FDECE3; /* Overdue and error backgrounds */
+  --dbd-late-ink: #854623; /* Overdue and error text */
+}

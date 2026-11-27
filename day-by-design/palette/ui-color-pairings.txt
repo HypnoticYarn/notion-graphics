@@ -1,0 +1,43 @@
+DAY BY DESIGN
+LIGHT THEME
+
+Daylight  #F7F8F3  App background
+Paper  #FFFFFF  Cards, menus, and inputs
+Midnight  #202F39  Headings and primary text
+Graphite  #52616A  Supporting text and timestamps
+Mist  #D3DCD7  Decorative separators
+Slate  #60736F  Input and checkbox outlines
+Spruce  #17665C  Main action, checked controls
+Deep spruce  #104F48  Pressed primary action
+Blueprint  #365B91  Work labels, links, focus ring
+Marigold  #F3CF66  Today and focus highlights
+Apricot  #F2AC79  Illustration accent
+Iris  #B4A5D2  Routine illustration accent
+Mint paper  #E2F1E8  Home and completed badges
+Blue paper  #E6EDF9  Work and selected navigation
+Lilac paper  #F0EBF7  Routine badges
+Plum  #614E79  Routine label text
+Honey paper  #FFF2CF  Due-soon badges
+Ochre  #73521A  Due-soon label text
+Peach paper  #FDECE3  Overdue and error backgrounds
+Clay  #854623  Overdue and error text
+
+TESTED PAIRINGS
+Text or control / background — contrast in sRGB
+Page text   #202F39 / #F7F8F3   12.88:1
+Card text   #202F39 / #FFFFFF   13.75:1
+Secondary text   #52616A / #FFFFFF   6.41:1
+Page metadata   #52616A / #F7F8F3   6.00:1
+Primary button   #FFFFFF / #17665C   6.79:1
+Pressed button   #FFFFFF / #104F48   9.40:1
+Home / done   #17665C / #E2F1E8   5.82:1
+Work / selected   #365B91 / #E6EDF9   5.83:1
+Routine   #614E79 / #F0EBF7   6.24:1
+Due soon   #73521A / #FFF2CF   6.39:1
+Overdue / error   #854623 / #FDECE3   6.31:1
+Today / focus   #202F39 / #F3CF66   9.12:1
+Active links   #365B91 / #FFFFFF   6.86:1
+Unfilled controls   #60736F / #FFFFFF   5.02:1
+Focus outline   #365B91 / #F7F8F3   6.43:1
+
+Use a check and the label Done for completed tasks. Pair the overdue label with a warning icon. Reserve Mist for decorative lines. Use Slate for essential unfilled control boundaries. For keyboard focus, add a Blueprint outer ring separated by a 2 px white gap.
