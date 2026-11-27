@@ -1,0 +1,102 @@
+{
+  "canvas": {
+    "name": "Daylight",
+    "hex": "#F7F8F3",
+    "role": "App background"
+  },
+  "surface": {
+    "name": "Paper",
+    "hex": "#FFFFFF",
+    "role": "Cards, menus, and inputs"
+  },
+  "ink": {
+    "name": "Midnight",
+    "hex": "#202F39",
+    "role": "Headings and primary text"
+  },
+  "muted": {
+    "name": "Graphite",
+    "hex": "#52616A",
+    "role": "Supporting text and timestamps"
+  },
+  "line": {
+    "name": "Mist",
+    "hex": "#D3DCD7",
+    "role": "Decorative separators"
+  },
+  "control": {
+    "name": "Slate",
+    "hex": "#60736F",
+    "role": "Input and checkbox outlines"
+  },
+  "primary": {
+    "name": "Spruce",
+    "hex": "#17665C",
+    "role": "Main action, checked controls"
+  },
+  "pressed": {
+    "name": "Deep spruce",
+    "hex": "#104F48",
+    "role": "Pressed primary action"
+  },
+  "blue": {
+    "name": "Blueprint",
+    "hex": "#365B91",
+    "role": "Work labels, links, focus ring"
+  },
+  "amber": {
+    "name": "Marigold",
+    "hex": "#F3CF66",
+    "role": "Today and focus highlights"
+  },
+  "apricot": {
+    "name": "Apricot",
+    "hex": "#F2AC79",
+    "role": "Illustration accent"
+  },
+  "lilac": {
+    "name": "Iris",
+    "hex": "#B4A5D2",
+    "role": "Routine illustration accent"
+  },
+  "home-fill": {
+    "name": "Mint paper",
+    "hex": "#E2F1E8",
+    "role": "Home and completed badges"
+  },
+  "work-fill": {
+    "name": "Blue paper",
+    "hex": "#E6EDF9",
+    "role": "Work and selected navigation"
+  },
+  "routine-fill": {
+    "name": "Lilac paper",
+    "hex": "#F0EBF7",
+    "role": "Routine badges"
+  },
+  "routine-ink": {
+    "name": "Plum",
+    "hex": "#614E79",
+    "role": "Routine label text"
+  },
+  "due-fill": {
+    "name": "Honey paper",
+    "hex": "#FFF2CF",
+    "role": "Due-soon badges"
+  },
+  "due-ink": {
+    "name": "Ochre",
+    "hex": "#73521A",
+    "role": "Due-soon label text"
+  },
+  "late-fill": {
+    "name": "Peach paper",
+    "hex": "#FDECE3",
+    "role": "Overdue and error backgrounds"
+  },
+  "late-ink": {
+    "name": "Clay",
+    "hex": "#854623",
+    "role": "Overdue and error text"
+  }
+}

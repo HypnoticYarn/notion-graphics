@@ -1,0 +1,17 @@
+Day by Design • Email graphics
+
+The icon guide shows every email action. The email graphics guide shows the headers, spot illustrations, footers, and dividers by filename.
+
+Inside the folders
+
+Icons — 24 symbols, each supplied as a transparent 96 × 96 PNG and a scalable SVG. Use PNG in an email and SVG in the planner app. Display at 24 × 24 or 32 × 32. Pair clickable icons with a visible label such as “Reply all” or “Schedule send.”
+
+Headers — Three 1200 × 300 JPG designs for a 600-pixel-wide email. Airmail margins also comes with “Day by Design” already typeset. Place the subject or issue title underneath as live email text.
+
+Illustrations — Six transparent 960 × 960 PNGs. Try The morning edition in a daily digest, Scheduled dispatch in a send-later confirmation, or A lighter inbox when there are no messages to review. Display at about 160–280 pixels wide.
+
+Footers and Dividers — Three of each, supplied as transparent PNGs. Display footers at 600 × 67 and dividers at 600 × 42, scaling proportionally for narrow screens. Place these on Paper (#FFFFFF) or Daylight (#F7F8F3). Keep unsubscribe and email preferences as live links.
+
+Palette — The original Day by Design palette, with a visual swatch sheet and named hex codes.
+
+For an accessible email, give the titled header the alt text “Day by Design.” Use empty alt text for decorative flourishes when the adjacent text already conveys the information.

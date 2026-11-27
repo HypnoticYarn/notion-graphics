@@ -29,6 +29,10 @@ Neutral building blocks that can sit alongside any one style set.
 - **device-mockups** (4): blank-screen iMac, MacBook, iPhone and line-outline phone frames.
 - **glossy-pill-buttons** (3 files, 9 buttons): shaded pill buttons with soft shadows, three per file.
 
+## day-by-design
+Graphics for Cheryl's Day by Design planner app: brand (wordmark and planner mark), palette, illustrations, dividers and the icon guide.
+- **email** (69): the Day by Design email graphics pack for the inbox page in the app and any Day by Design emails: icons (48 files: 24 symbols as PNG and SVG in follow-ups, mail-actions, mailboxes and newsletter; use SVG in the app, PNG in email), headers (4 JPG, 1200 x 300), illustrations (6 PNG), footers (3 PNG), dividers (3 PNG), palette, the icon guide and email graphics guide, and start-here.txt with sizes and how to use each piece.
+
 ## jess-mission-control
 Graphics for Jess's Mission Control in Notion (fuzzy monster style): scenes (24), illustrated-icons (24, png and svg), simple-icons (24, png and svg), source-sheets (2 overview sheets), holiday-banners (6 covers: Valentine's, Easter, Halloween, Thanksgiving, Christmas, New Year), holiday-icons (24, four per holiday, png and svg).
 
